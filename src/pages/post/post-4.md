@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: Yo soy Luis Santeliz
+title: I am Luis Santeliz
 author: Astro Learner
 description: "This post will show up on its own!"
 image:
